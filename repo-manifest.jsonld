@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/zopeext/commit/08c983e2df9646558d23b41c3bd01ce8e7c901ab",
       "git:hexsha": "08c983e2df9646558d23b41c3bd01ce8e7c901ab",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/zopeext/commit/af85ee2859d110bf2101c31b005f3adf60832dfb",
