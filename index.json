@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "zopeext",
+  "versions": [
+    {
+      "commit": "08c983e2df9646558d23b41c3bd01ce8e7c901ab",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:23:45.742727+00:00"
+    }
+  ]
+}
